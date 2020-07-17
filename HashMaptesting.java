@@ -17,6 +17,7 @@ public class Hashmaptesting {
 		hm.put(7,"Sunil");
 		hm.put(8,"Sonu");
 		hm.put(8,"Sonu Sing");
+		hm.put(9,"Alen");
 		hm.put(null, null);
 		hm.put(null, "Null 3");
 		
